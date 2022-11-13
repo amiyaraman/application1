@@ -1,0 +1,764 @@
+<changelist name="Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]" date="1668332352841" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 13-11-2022 15:09 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_3/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GIIPt9tg+2YfkAMKNNhtofQovEY=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_0e317bd096f59054443b4405921cb2b00e1629bbb4f37ef919b73c33c3a039f3_bucket_0/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_0e317bd096f59054443b4405921cb2b00e1629bbb4f37ef919b73c33c3a039f3_bucket_3/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aV0xWUO0ukz8_rNxZgnfMu0R_BE=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Z7S85xuVheniAIoivrZM42Mghf4=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5P9OOQUfWjmOoceqFXzrHuPLhNY=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UDqcjbMyKT84pbNbKHgCXAqRmGA=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/databinding/ActivityMainBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/databinding/ActivityMainBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/ActivityMainBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex_archive_input_jar_hashes/debug/out" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex_archive_input_jar_hashes/debug/out" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XaCc9PKN8VBvcbFww8xIQyCLu8s=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+    <option name="AFTER_PATH" value="app/build/intermediates/apk/debug/app-debug.apk" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/app-debug.apk" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" />
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/javaResources0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OJYVe7GvRo+Z8zFrHAViaEF2rAU=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/databinding/ActivityMainBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/databinding/ActivityMainBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/ActivityMainBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_java_res/debug/base.jar" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_java_res/debug/base.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/base.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/v_P4HnODHK14FKxopFFdcrEO7zQ=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/LoginActivity.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/LoginActivity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/LoginActivity.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/classes.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WXVNi5d+XEsBN357gUB9UruFrvk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Clf4BRtJLN_BmPFvJmQJToOI3HI=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iLrPQLR3fJS0miQUVfl2tmbilG0=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5Komknah_K20cbdS4o8kXj728Dg=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/B4N9ukwcizq8JCC0Oqo4J21B46A=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/9946079f7d01bf64629784ab69b057257608b7af6f6d32294138c680650cb56e_4.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/databinding/ActivityMainPageBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/databinding/ActivityMainPageBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/ActivityMainPageBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/9946079f7d01bf64629784ab69b057257608b7af6f6d32294138c680650cb56e_1.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KbE2WP1lHwGnqwqZ9cmMEclGfaY=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+Ce+Vr17Jn9z+NLAYgSIgpm31dM=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5+YQ8uY6SWoxURCKD892sXF6Xkg=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MoFFeY_aog5uLVBwxIKPKlrhER4=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainActivity.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainActivity.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainActivity.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Hr+PEPPv8lNz0bjC3tRzrv1MC_s=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wm51JFsknKk1pszhlQdzLXaPf_4=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ScvYkfohRDfqZkU9TBmgkcc96iE=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainPage$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainPage$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainPage$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2Hm_gvWN4aP7qZYvHy42S_MiZc8=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/AndroidAdapter$MyViewHolder.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/AndroidAdapter$MyViewHolder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/AndroidAdapter$MyViewHolder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/p0Ub3bsVO26XPu1H6wP3o_iV52Y=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/processed_res/debug/out/resources-debug.ap_" />
+    <option name="AFTER_PATH" value="app/build/intermediates/processed_res/debug/out/resources-debug.ap_" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/resources-debug.ap_" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OhmQLZ_HFtXBMhQETt+Asb4ngPM=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/sfBaZUGXoB6kvPnAFr5TcNo8Sw4=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rKIaCZKohGSkvnEbkKKwiGSOe0w=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/xml_backup_rules.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/xml_backup_rules.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/xml_backup_rules.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" />
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/androidResources" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/databinding/ActivityMain2Binding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/databinding/ActivityMain2Binding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/ActivityMain2Binding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/layout_activity_main.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LGMXnof8F5ibIADfegC5X3xm0z0=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LOoIx1PwvdfEb6xkq6ELursWD3E=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/classes2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/xJvCviYCKzmn8_OG9vYfM72BqnM=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WZq_njUMlndoNqKZ6JzHtYmspDk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lYnzR6A6gL1tAqIZMQG9+px23a0=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainActivity$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainActivity$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainActivity$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/layout_one_view.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/layout_one_view.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/layout_one_view.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" />
+    <option name="AFTER_PATH" value="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/R.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_5/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainPage$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainPage$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainPage$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/K17C+3h8HrAhe1ExhIW8+JYQqf8=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/layout_activity_main2.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/layout_activity_main2.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/layout_activity_main2.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/LoginActivity$1.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/LoginActivity$1.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/LoginActivity$1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+    <option name="AFTER_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/merge-state" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainPage.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainPage.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainPage.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainActivity2.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainActivity2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainActivity2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/LoginActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/LoginActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/LoginActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainPage.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainPage.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainPage.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/7k070EHSXUGHPOV_iIcYZidGbFw=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_0e317bd096f59054443b4405921cb2b00e1629bbb4f37ef919b73c33c3a039f3_bucket_4/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/D+jjnBBD0dlfMB3lAd5pfeVX1tM=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bOXW8qpPYOsu3K_X8ebeE4DKpck=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/AndroidAdapter$1.class" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/s+T8wsgExyCMi3bMQts8uBkd9xQ=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/9946079f7d01bf64629784ab69b057257608b7af6f6d32294138c680650cb56e_2.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/P7d4+IHdx1IJlmyq9zgastjfXxw=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QCq+rTE8Nq6QjRHIK4bWAQTWS_g=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/9946079f7d01bf64629784ab69b057257608b7af6f6d32294138c680650cb56e_5.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1xRsOgqgFAtDH1MMid53VirQQ7o=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/AndroidAdapter.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/AndroidAdapter.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/AndroidAdapter.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PkJ3rMZnbO9HakuxH0hz2giwqjk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainActivity.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainActivity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainActivity.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9hKHT0rRPA1eIPqff1BEYIz3KAI=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WTb20ARDd0MqvUSoHQUctHx1Eok=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2fyVv58jODgRUg5i5d9hVZhcnaY=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qsSwXxt4I50r2CUYVxgXLXAxII4=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ni8Ud2fswbW0q19Qp5d7etTDVfk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6_9v09LCPOiClH8eQ8J93iTxgMA=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ct8hltApF7k_cag5XeX+srbBvlk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1JzK8GQgqwzOSXcEaRE3BU31XMg=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/drawable-anydpi-v24_ic_launcher_foreground.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/f9FlwHEJ0WIwg4qoo+2ZwLLgQ8w=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_0e317bd096f59054443b4405921cb2b00e1629bbb4f37ef919b73c33c3a039f3_bucket_5/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainActivity$2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainActivity$2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainActivity$2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CrmHUigBvwSC619OsdUlsW66lRE=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Tjhnjr1TqFemj38Unsisip7WMY8=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/layout_activity_login.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/IaRIsgSTNQ47PmrU1Ue5Cad5zQw=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OyEF_Nl59xZzO+cq9qN2MuccIPU=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QxQq7QOA8tbPnX4GaGC5H6uDA+o=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/classes1.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/BDQqu87izcmMpZoZKpsTedTpkJY=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/xml_data_extraction_rules.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/xml_data_extraction_rules.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/xml_data_extraction_rules.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/databinding/ActivityLoginBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/databinding/ActivityLoginBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/ActivityLoginBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_4/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KU931Lu2eDoneptMMS8yoiTDXhg=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0EclQZh03nw9GEAKa+oHgskt8+o=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/databinding/ActivityMainPageBinding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/databinding/ActivityMainPageBinding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/ActivityMainPageBinding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OyzxRHZXc73bsK6k6CxuZTsdox4=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/drawable-anydpi-v21_ic_launcher_background.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/LoginActivity$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/LoginActivity$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/LoginActivity$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VB1l09Z7DY9Cw0kFyRasQwIUILM=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pfsAxhInoRvm7uVvCfoHoYbJwmU=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainActivity2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/MainActivity2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainActivity2.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KKbkPDCx_HagVZnp5tYTXgcPpeg=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainActivity$1.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainActivity$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainActivity$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/9946079f7d01bf64629784ab69b057257608b7af6f6d32294138c680650cb56e_3.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TYzLcw5uX4v+4Gg3CE_xRBNaOY0=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/mipmap-anydpi-v26_ic_launcher.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/databinding/ActivityMain2Binding.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/databinding/ActivityMain2Binding.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/ActivityMain2Binding.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vdc3NY9ecPAQ4khOyXwKdcCPwPE=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/odWBKZaqXK_Y6Q+hhS6R1lrJbvk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_0e317bd096f59054443b4405921cb2b00e1629bbb4f37ef919b73c33c3a039f3_bucket_2/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/g25jLD6mq90YlKwjvOamyUPcuNY=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/iZvpRfPWapLIhDqPUOGnMxOVCeQ=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/910BXsapTW4YYOeIAgXFSf5G0o8=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uNbZ6ffVU9PnWd6upSKYsfdspEU=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/qsQ7PKxbxewUT7sHiqo_bMS0r1s=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/databinding/ActivityLoginBinding.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/project_dex_archive/debug/out/com/example/myapplication/databinding/ActivityLoginBinding.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/ActivityLoginBinding.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tWKN5qdtDIeMvBAgoAI1JgEPZMc=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6mnJDNlu3VmBn4UHc79HhX+V8jM=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/I4n88KqmVlU49Lx1Wsv0b6NzuIs=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MhNKQ024rj7ijdJYRMy+OSCRP+I=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Dw5CFC76i7dAwFQpznOpbgxjcdk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainActivity$2.class" />
+    <option name="AFTER_PATH" value="app/build/intermediates/javac/debug/classes/com/example/myapplication/MainActivity$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/MainActivity$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9uFkFAwsih98Z2pagtI3mH_PaNo=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" />
+    <option name="AFTER_PATH" value="app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/previous-compilation-data.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/22XvLGb5JO_IczBhrSOuKWi39Us=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/mipmap-anydpi-v26_ic_launcher_round.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes2.dex" />
+    <option name="AFTER_PATH" value="app/build/intermediates/external_libs_dex/debug/mergeExtDexDebug/classes2.dex" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/classes21.dex" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/merged_res/debug/layout_activity_main_page.xml.flat" />
+    <option name="AFTER_PATH" value="app/build/intermediates/merged_res/debug/layout_activity_main_page.xml.flat" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13-11-2022_15_09_[Changes]/layout_activity_main_page.xml.flat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/rVWW1XJbgi9PJrmHI93Sfke9rfo=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3VhW7OSPt4HE9jebGDMkwJo5TQk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pYrYQJzqSuXjAWWkJk5TVeyjc1E=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OBdrHwKVL22w9b9uGzRMQfVAVhA=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/desugar_graph/debug/out/currentProject/jar_0e317bd096f59054443b4405921cb2b00e1629bbb4f37ef919b73c33c3a039f3_bucket_1/graph.bin" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+m5mzwCevjuocFt_pE6F+UbLXjQ=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CpVGC3u9SPZNpm3Ne5KvrxAYmHk=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/n0xxqDi6JZZ5N99dV4UypypW6jg=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/project_dex_archive/debug/out/9946079f7d01bf64629784ab69b057257608b7af6f6d32294138c680650cb56e_0.jar" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KWeL00xLIB6bcFaFSG1pb_hV_cM=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+hTRwrx2mP8PgXA58Rq+gNRPVAw=" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+</changelist>
